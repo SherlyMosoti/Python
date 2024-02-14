@@ -1,0 +1,6 @@
+print("eMobilis")
+print("Mosoti")
+print("World Vision")
+print(100)
+print(2+4)
+print("Hello World")
